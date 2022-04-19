@@ -1,0 +1,5 @@
+#backgroundimg{
+    background-image: url("https://st3.depositphotos.com/13349494/35888/i/950/depositphotos_358889886-stock-photo-top-view-fresh-sandwich-salami.jpg");
+    height: 100vh; /* vh is very important, it stands for viewport height*/
+    /*background-repeat: no-repeat;  can't use this, the image isn;t scaling otherwise*/
+}

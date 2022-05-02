@@ -3,3 +3,8 @@
     height: 100vh; /* vh is very important, it stands for viewport height*/
     /*background-repeat: no-repeat;  can't use this, the image isn;t scaling otherwise*/
 }
+
+.row{
+    margin-bottom: 25px;
+    row-gap: 50px;
+}

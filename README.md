@@ -1,4 +1,4 @@
-# Upwards Solutions presents: MiMexico
+# Upwards Solutions presents: Mi Mexico
 
 Serve the needs of a family owned food truck, to help boost traffic and revenue of a local buissness. 
 
@@ -30,9 +30,9 @@ npm i bootstrap@5.2.0-beta1
 Contributors names and contact info
 
 Nader Opeyany
-Jonah
-Josue
-Danny
+Jonah Saysourivong
+Josue Gonzalez
+Dale Strain
 
 
 ## License

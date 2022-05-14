@@ -4,7 +4,7 @@ Serve the needs of a family owned food truck, to help boost traffic and revenue 
 
 ## Description
 
-The client will like to have a website created for the customers and for the employees to interact with for an easier order process. Our solution will provide the customers and the employees with a simple but elegant interface to place orders amongst other features. 
+The client will like to have a website created for the customers and for the employees to interact with for an easier order process. Our solution will provide the customers and the employees with a simple but elegant interface to place orders amongst other features. This website will allow the client’s business to attract new customers, provide the customers/client with a more efficient ordering process, and will give their customers a memorable user experience.
 
 ## Getting Started
 
@@ -23,21 +23,28 @@ Then build and run project to view a prototype of our web client!
 ```
 npm i bootstrap@5.2.0-beta1
 ```
+## FIGMA design
+![FIGMA](https://user-images.githubusercontent.com/72956563/168409395-42c6ae13-ee8f-44c3-9749-19e4797828d1.png)
+
 ## Prototype
-![Screenshot 2022-05-13 202036](https://user-images.githubusercontent.com/72956563/168408919-81d944db-9b93-416d-b7dc-2fbf3ddfd96a.png)
-![Screenshot 2022-05-13 202055](https://user-images.githubusercontent.com/72956563/168408922-604e3682-78d1-4d9c-8333-b9653bc68a1b.png)
+![Prototype](https://user-images.githubusercontent.com/72956563/168408919-81d944db-9b93-416d-b7dc-2fbf3ddfd96a.png)
+![Prototype](https://user-images.githubusercontent.com/72956563/168408922-604e3682-78d1-4d9c-8333-b9653bc68a1b.png)
 
 ## Future Sprints
-![unknown](https://user-images.githubusercontent.com/72956563/168408961-8f6fb66d-0afc-4ce3-ba27-6b2256b523cb.png)
+![Future](https://user-images.githubusercontent.com/72956563/168408961-8f6fb66d-0afc-4ce3-ba27-6b2256b523cb.png)
 
 ## Authors
 
 Contributors names and contact info
 
 Nader Opeyany
+
 Jonah Saysourivong
+
 Josue Gonzalez
+
 Dale Strain
+
 Karen/Kevin Vong
 
 

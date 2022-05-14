@@ -17,10 +17,11 @@ Download the C# .NET files within a compatabile IDE and fire it up!
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+Open your perferred IDE, for example Visual Studio Code.
+Enure NODE.js is installed.
+Then build and run project to view a prototype of our web client!
 ```
-code blocks for commands
+npm i bootstrap@5.2.0-beta1
 ```
 
 
@@ -28,7 +29,10 @@ code blocks for commands
 
 Contributors names and contact info
 
-ex. Nader Opeyany
+Nader Opeyany
+Jonah
+Josue
+Danny
 
 
 ## License

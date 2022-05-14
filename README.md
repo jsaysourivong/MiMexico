@@ -23,7 +23,12 @@ Then build and run project to view a prototype of our web client!
 ```
 npm i bootstrap@5.2.0-beta1
 ```
+## Prototype
+![Screenshot 2022-05-13 202036](https://user-images.githubusercontent.com/72956563/168408919-81d944db-9b93-416d-b7dc-2fbf3ddfd96a.png)
+![Screenshot 2022-05-13 202055](https://user-images.githubusercontent.com/72956563/168408922-604e3682-78d1-4d9c-8333-b9653bc68a1b.png)
 
+## Future Sprints
+![unknown](https://user-images.githubusercontent.com/72956563/168408961-8f6fb66d-0afc-4ce3-ba27-6b2256b523cb.png)
 
 ## Authors
 

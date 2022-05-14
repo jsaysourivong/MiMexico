@@ -4,11 +4,9 @@
     /*background-repeat: no-repeat;  can't use this, the image isn;t scaling otherwise*/
 }
 
-.row{
-    margin-bottom: 25px;
-    row-gap: 50px;
-}
+
 img{
-    width:50px;
-    height: 50px;
+    width:500px;
+    height:300px;
+    float: left;
 }
